@@ -1,0 +1,36 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2px;
+    background-color: #f5f5f5;
+}
+.logo{
+    display: inline-block;
+    font-size: 40px;
+    font-weight: bold;
+    color: #000;
+    height: 30px;
+    width: 30%;
+}
+.nav{
+    width: 70%;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    height: 30px;
+    justify-content: space-evenly;
+    padding-right: 120px;
+}
+.nav li{
+    display: block;
+    align-items: center;
+    color: #333;
+    font-size: 25px;
+}
+.nav li a{
+    text-decoration: none;
+    color: #333;
+}.nav li a:hover{
+    color: #007bff;
+}

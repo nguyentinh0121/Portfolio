@@ -1,0 +1,10 @@
+.about{
+    padding: 0px 40px 100px;
+    background-color: #fff;
+}
+.aboutTitle{
+    font-size: 56px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
