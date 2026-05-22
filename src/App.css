@@ -1,3 +1,7 @@
 .app_container {
-  padding: 20px;
+  padding: 20px 100px 100px;
+  background: #0f172a;
+  color: #fff;
+  font-family: Inter, sans-serif;
+  padding: 0 8%;
 }
